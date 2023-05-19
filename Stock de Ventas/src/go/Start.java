@@ -20,6 +20,7 @@ public class Start {
 
 		Iterator<Producto> productos = CompararId.compararId(lista, lista2);
 		
+		
 	}
 
 }
